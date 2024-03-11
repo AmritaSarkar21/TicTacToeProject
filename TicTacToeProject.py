@@ -66,10 +66,4 @@ for i in range(1,10):
                 print("Second Player",player1,"won the game")
                 break
 
-print("GAME OVER")
-
-
-
-
-
-    
+print("GAME OVER")    
